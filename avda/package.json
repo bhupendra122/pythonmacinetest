@@ -1,0 +1,46 @@
+{
+  "name": "avda_api",
+  "version": "1.0.0",
+  "description": "Avda Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./server.js",
+    "createCategories": "node ./scripts/createCategories.js",
+    "createLanguages": "node ./scripts/createLanguages.js",
+    "createCertifications": "node ./scripts/createCertifications.js",
+    "createBenefits": "node ./scripts/createBenefits.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/acina324/avda_api.git"
+  },
+  "author": "Avda",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/acina324/avda_api#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.0",
+    "aws-sdk": "^2.803.0",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "path": "^0.12.7",
+    "pg": "^8.5.0",
+    "pg-hstore": "^2.3.3",
+    "sendgrid": "^5.2.3",
+    "sequelize": "^6.3.5",
+    "twilio": "^3.52.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "sequelize-cli": "^6.2.0"
+  }
+}

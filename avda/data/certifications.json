@@ -1,0 +1,3312 @@
+[
+  {
+    "name": "Certificate in Investment Performance Measurement",
+    "postNominal": "CIPM",
+    "agency": "CFA Institute"
+  },
+  {
+    "name": "Chartered Financial Analyst",
+    "postNominal": "CFA",
+    "agency": ""
+  },
+  {
+    "name": "Chartered Market Technician",
+    "postNominal": "CMT",
+    "agency": "Market Technicians Association"
+  },
+  {
+    "name": "Chartered Alternative Investment Analyst",
+    "postNominal": "CAIA",
+    "agency": "Chartered Alternative Investment Analyst Association"
+  },
+  {
+    "name": "Chartered Management Consultant",
+    "postNominal": "ChMC",
+    "agency": "Chartered Institute of Management Consultants"
+  },
+  {
+    "name": "Chartered Global Management Accountant",
+    "postNominal": "CGMA",
+    "agency": "American Institute of CPAs and Chartered Institute of Management Accountants"
+  },
+  {
+    "name": "Certified Public Accountant",
+    "postNominal": "CPA",
+    "agency": ""
+  },
+  {
+    "name": "Certified Financial Planner",
+    "postNominal": "CFP",
+    "agency": "Certified Financial Planner Board of Standards"
+  },
+  {
+    "name": "Certified Financial Consultant",
+    "postNominal": "CFC",
+    "agency": "Institute of Financial Consultants"
+  },
+  {
+    "name": "Chartered Life Underwriter",
+    "postNominal": "CLU",
+    "agency": "American College of Financial Services"
+  },
+  {
+    "name": "Certified Fraud Examiner",
+    "postNominal": "CFE",
+    "agency": "Association of Certified Fraud Examiners"
+  },
+  {
+    "name": "Certified Internal Auditor",
+    "postNominal": "CIA",
+    "agency": "Institute of Internal Auditors"
+  },
+  {
+    "name": "Certification in Risk Management Assurance",
+    "postNominal": "CRMA",
+    "agency": ""
+  },
+  {
+    "name": "Certified Government Auditing Professional",
+    "postNominal": "CGAP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Payroll Professional",
+    "postNominal": "CPP",
+    "agency": "American Payroll Association"
+  },
+  {
+    "name": "Fundamental Payroll Certification",
+    "postNominal": "FPC",
+    "agency": ""
+  },
+  {
+    "name": "Certified California Municipal Treasurer",
+    "postNominal": "CCMT",
+    "agency": "California Municipal Treasurers Association"
+  },
+  {
+    "name": "Certified Government Financial Manager",
+    "postNominal": "CGFM",
+    "agency": "Association of Government Accountants"
+  },
+  {
+    "name": "Certified Government Finance Officer",
+    "postNominal": "CGFO",
+    "agency": "Government Finance Officers Association of Texas"
+  },
+  {
+    "name": "Certified Management Accountant",
+    "postNominal": "CMA",
+    "agency": "Institute of Management Accountants"
+  },
+  {
+    "name": "Certified Municipal Finance Officer",
+    "postNominal": "CMFO",
+    "agency": "Tennessee Comptroller of the Treasury"
+  },
+  {
+    "name": "Certified Public Finance Administrator",
+    "postNominal": "CPFA",
+    "agency": "Association of Public Treasurers of the US and Canada"
+  },
+  {
+    "name": "Certified Public Finance Officer",
+    "postNominal": "CPFO",
+    "agency": "Government Finance Officers Association of the United States and Canada"
+  },
+  {
+    "name": "Chartered Property Casualty Underwriter",
+    "postNominal": "CPCU",
+    "agency": "American Institute For Chartered Property Casualty Underwriters"
+  },
+  {
+    "name": "Certified Defense Financial Manager",
+    "postNominal": "CDFM",
+    "agency": "American Society of Military Comptrollers"
+  },
+  {
+    "name": "Registered Tax Return Preparer",
+    "postNominal": "RTRP",
+    "agency": "Internal Revenue Service"
+  },
+  {
+    "name": "Enrolled Agent",
+    "postNominal": "EA",
+    "agency": ""
+  },
+  {
+    "name": "Fraternal Insurance Counselor Fellow",
+    "postNominal": "FICF",
+    "agency": "National Association of Fraternal Insurance Counselors"
+  },
+  {
+    "name": "Fraternal Insurance Counselor",
+    "postNominal": "FIC",
+    "agency": ""
+  },
+  {
+    "name": "Certified Corporate FP&A Professional",
+    "postNominal": "FP&A",
+    "agency": "Association for Financial Professionals"
+  },
+  {
+    "name": "Certified Treasury Professional",
+    "postNominal": "CTP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Trust and Financial Advisor",
+    "postNominal": "CTFA",
+    "agency": "American Bankers Association"
+  },
+  {
+    "name": "Certified Turnaround Professional",
+    "postNominal": "CTP",
+    "agency": "Turnaround Management Association"
+  },
+  {
+    "name": "Registered Financial Planner",
+    "postNominal": "RFP",
+    "agency": "Registered Financial Planners Institute"
+  },
+  {
+    "name": "Financial Risk Manager",
+    "postNominal": "FRM",
+    "agency": "Global Association of Risk Professionals"
+  },
+  {
+    "name": "Professional Risk Manager",
+    "postNominal": "PRM",
+    "agency": "Professional Risk Managers' International Association"
+  },
+  {
+    "name": "Associate of the Society of Actuaries",
+    "postNominal": "ASA",
+    "agency": "Society of Actuaries"
+  },
+  {
+    "name": "Fellow of the Society of Actuaries",
+    "postNominal": "FSA",
+    "agency": "Society of Actuaries"
+  },
+  {
+    "name": "Chartered Enterprise Risk Analyst",
+    "postNominal": "CERA",
+    "agency": "Society of Actuaries"
+  },
+  {
+    "name": "Associate of the Casualty Actuarial Society",
+    "postNominal": "ACAS",
+    "agency": "Casualty Actuarial Society"
+  },
+  {
+    "name": "Fellow of the Casualty Actuarial Society",
+    "postNominal": "FCAS",
+    "agency": "Casualty Actuarial Society"
+  },
+  {
+    "name": "Member of the American Academy of Actuaries",
+    "postNominal": "MAAA",
+    "agency": "American Academy of Actuaries"
+  },
+  {
+    "name": "Associate of the Conference of Consulting Actuaries",
+    "postNominal": "ACA",
+    "agency": "Conference of Consulting Actuaries"
+  },
+  {
+    "name": "Fellow of the Conference of Consulting Actuaries",
+    "postNominal": "FCA",
+    "agency": "Conference of Consulting Actuaries"
+  },
+  {
+    "name": "Enrolled Actuary",
+    "postNominal": "EA",
+    "agency": "Joint Board for the Enrollment of Actuaries"
+  },
+  {
+    "name": "Registered Architect",
+    "postNominal": "RA",
+    "agency": "state licensing board"
+  },
+  {
+    "name": "Professional Landscape Architect",
+    "postNominal": "PLA",
+    "agency": "state licensing board"
+  },
+  {
+    "name": "Registered Interior Designer",
+    "postNominal": "RID",
+    "agency": "state licensing board"
+  },
+  {
+    "name": "National Council of Architectural Registration Boards Certified",
+    "postNominal": "NCARB",
+    "agency": "National Council of Architectural Registration Boards"
+  },
+  {
+    "name": "National Council for Interior Design Qualification Certified",
+    "postNominal": "NCIDQ",
+    "agency": "National Council for Interior Design Qualification"
+  },
+  {
+    "name": "Association of Licensed Architects Member",
+    "postNominal": "ALA",
+    "agency": "Association of Licensed Architects"
+  },
+  {
+    "name": "Association of Licensed Architects Fellow",
+    "postNominal": "FALA",
+    "agency": "Association of Licensed Architects"
+  },
+  {
+    "name": "American Institute of Architects Member",
+    "postNominal": "AIA",
+    "agency": "American Institute of Architects"
+  },
+  {
+    "name": "American Institute of Architects Fellow",
+    "postNominal": "FAIA",
+    "agency": "American Institute of Architects"
+  },
+  {
+    "name": "American Institute of Certified Planners",
+    "postNominal": "AICP",
+    "agency": "American Planning Association"
+  },
+  {
+    "name": "American Society of Interior Designers Member",
+    "postNominal": "ASID",
+    "agency": "American Society of Interior Designers"
+  },
+  {
+    "name": "American Society of Interior Designers Fellow",
+    "postNominal": "FASID",
+    "agency": "American Society of Interior Designers"
+  },
+  {
+    "name": "Council of Educators in Landscape Architecture Member",
+    "postNominal": "CELA",
+    "agency": "Council of Educators in Landscape Architecture"
+  },
+  {
+    "name": "Council of Educators in Landscape Architecture Fellow",
+    "postNominal": "FCELA",
+    "agency": "Council of Educators in Landscape Architecture"
+  },
+  {
+    "name": "American Society of Landscape Architects Member",
+    "postNominal": "ASLA",
+    "agency": "American Society of Landscape Architects"
+  },
+  {
+    "name": "American Society of Landscape Architects Fellow",
+    "postNominal": "FASLA",
+    "agency": "American Society of Landscape Architects"
+  },
+  {
+    "name": "American Institute of Certified Planners Member",
+    "postNominal": "AICP",
+    "agency": "American Institute of Certified Planners"
+  },
+  {
+    "name": "American Institute of Certified Planners Fellow",
+    "postNominal": "FAICP",
+    "agency": "American Institute of Certified Planners"
+  },
+  {
+    "name": "Leadership in Energy and Environmental Design Accredited Professional",
+    "postNominal": "LEED AP",
+    "agency": "U.S. Green Building Council"
+  },
+  {
+    "name": "Construction Specification Institute Member",
+    "postNominal": "CSI",
+    "agency": "Construction Specifications Institute"
+  },
+  {
+    "name": "Construction Document Technologist",
+    "postNominal": "CDT",
+    "agency": "Construction Specifications Institute"
+  },
+  {
+    "name": "Certified Construction Contract Administrator",
+    "postNominal": "CCCA",
+    "agency": "Construction Specifications Institute"
+  },
+  {
+    "name": "Certified Construction Specifier",
+    "postNominal": "CCS",
+    "agency": "Construction Specifications Institute"
+  },
+  {
+    "name": "Certified Construction Product Representative",
+    "postNominal": "CCPR",
+    "agency": "Construction Specifications Institute"
+  },
+  {
+    "name": "Certified Association Executive",
+    "postNominal": "CAE",
+    "agency": ""
+  },
+  {
+    "name": "Advanced Certification Administrator",
+    "postNominal": "ACA",
+    "agency": ""
+  },
+  {
+    "name": "Basic Certification Administrator",
+    "postNominal": "BCA",
+    "agency": ""
+  },
+  {
+    "name": "Certified Fundraising Executive",
+    "postNominal": "CFRE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Nonprofit Professional",
+    "postNominal": "CNP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Radio Operator",
+    "postNominal": "CRO",
+    "agency": ""
+  },
+  {
+    "name": "Certified Television Operator",
+    "postNominal": "CTO",
+    "agency": ""
+  },
+  {
+    "name": "Certified Broadcast Networking Technologist",
+    "postNominal": "CBNT",
+    "agency": ""
+  },
+  {
+    "name": "Certified Broadcast Technologist",
+    "postNominal": "CBT",
+    "agency": ""
+  },
+  {
+    "name": "Certified Audio Engineer",
+    "postNominal": "CEA",
+    "agency": ""
+  },
+  {
+    "name": "Certified Broadcast Television Engineer",
+    "postNominal": "CBTE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Broadcast Networking Engineer",
+    "postNominal": "CBNE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Senior Broadcast Radio Engineer",
+    "postNominal": "CSRE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Senior Broadcast Television Engineer",
+    "postNominal": "CSTE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Professional Broadcast Engineer",
+    "postNominal": "CPBE",
+    "agency": ""
+  },
+  {
+    "name": "Certified 8-VSB Specialist",
+    "postNominal": "8-VSB",
+    "agency": ""
+  },
+  {
+    "name": "Certified AM Directional Specialist",
+    "postNominal": "AMD",
+    "agency": ""
+  },
+  {
+    "name": "Certified Digital Radio Broadcast Specialist",
+    "postNominal": "DRB",
+    "agency": ""
+  },
+  {
+    "name": "Certified Senior Broadcast Engineer",
+    "postNominal": "CSBE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Radio and Television Broadcast Engineer",
+    "postNominal": "CBRTE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Senior Radio and Television Broadcast Engineer",
+    "postNominal": "CSRTE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Commercial Contract Manager",
+    "postNominal": "CCCM",
+    "agency": "National Contract Management Association"
+  },
+  {
+    "name": "Contract and Commercial Management Certification",
+    "postNominal": "CCM",
+    "agency": "International Association for Contract and Commercial Management"
+  },
+  {
+    "name": "Certified Federal Contract Manager",
+    "postNominal": "CFCM",
+    "agency": "National Contract Management Association"
+  },
+  {
+    "name": "Certified Professional Contract Manager",
+    "postNominal": "CPCM",
+    "agency": "National Contract Management Association"
+  },
+  {
+    "name": "Defense Acquisition Workforce Improvement Act Contracting Certification",
+    "postNominal": "DAWIA Contracting Certification",
+    "agency": "Defense Acquisition University"
+  },
+  {
+    "name": "Federal Acquisition Certification in Contracting",
+    "postNominal": "FAC-C",
+    "agency": "Federal Acquisition Institute"
+  },
+  {
+    "name": "Industry Certification in Contract Management - Defense",
+    "postNominal": "ICCM-D",
+    "agency": "National Contract Management Association"
+  },
+  {
+    "name": "Industry Certification in Contract Management - Federal",
+    "postNominal": "ICCM-F",
+    "agency": "National Contract Management Association"
+  },
+  {
+    "name": "Member of the International Association for Energy Economics",
+    "postNominal": "IAEE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Emergency Manager",
+    "postNominal": "CEM",
+    "agency": "International Association of Emergency Managers"
+  },
+  {
+    "name": "Associate Emergency Manager",
+    "postNominal": "AEM",
+    "agency": "International Association of Emergency Managers"
+  },
+  {
+    "name": "Certified Floodplain Manager",
+    "postNominal": "CFM",
+    "agency": "Association of State Floodplain Managers[8]"
+  },
+  {
+    "name": "Fellow of the Academy of Emergency Management",
+    "postNominal": "FAcEM",
+    "agency": "Emergency Management Academy[9]"
+  },
+  {
+    "name": "Emergency Number Professional",
+    "postNominal": "ENP",
+    "agency": "National Emergency Number Association"
+  },
+  {
+    "name": "Registered Public-Safety Leader",
+    "postNominal": "RPL",
+    "agency": "Association of Public-Safety Communications Officials-International"
+  },
+  {
+    "name": "Professional Engineer",
+    "postNominal": "PE",
+    "agency": "Licensure by individual state boards, examination by National Council of Examiners for Engineering and Surveying"
+  },
+  {
+    "name": "Model Law Engineer",
+    "postNominal": "MLE",
+    "agency": "Designation bestowed by National Council of Examiners for Engineering and Surveying"
+  },
+  {
+    "name": "Professional Surveyor",
+    "postNominal": "PS",
+    "agency": "Licensure by individual state boards, examination by National Council of Examiners for Engineering and Surveying"
+  },
+  {
+    "name": "Model Law Surveyor",
+    "postNominal": "MLS",
+    "agency": "Designation bestowed by National Council of Examiners for Engineering and Surveying"
+  },
+  {
+    "name": "Structural Engineer",
+    "postNominal": "SE",
+    "agency": ""
+  },
+  {
+    "name": "Structural Engineering Certification Board",
+    "postNominal": "SECB",
+    "agency": ""
+  },
+  {
+    "name": "Engineer Intern",
+    "postNominal": "EI",
+    "agency": ""
+  },
+  {
+    "name": "Engineer-in-Training",
+    "postNominal": "EIT",
+    "agency": ""
+  },
+  {
+    "name": "National Institute For Certification In Engineering Technologies",
+    "postNominal": "NICET I/II/III/IV",
+    "agency": "Also, TT, AET, ET, SET, or simply CET (technicians) - CT, CET (technologists)"
+  },
+  {
+    "name": "Certified Engineering Technician",
+    "postNominal": "CET",
+    "agency": ""
+  },
+  {
+    "name": "Member of the National Academy of Engineering",
+    "postNominal": "MNAE",
+    "agency": ""
+  },
+  {
+    "name": "Student Member of the Institute of Electrical and Electronics Engineers",
+    "postNominal": "StMIEEE",
+    "agency": ""
+  },
+  {
+    "name": "Graduate Student Member of the Institute of Electrical and Electronics Engineers",
+    "postNominal": "GSMIEEE",
+    "agency": ""
+  },
+  {
+    "name": "Associate Member of the Institute of Electrical and Electronics Engineers",
+    "postNominal": "AMIEEE",
+    "agency": ""
+  },
+  {
+    "name": "Member of the Institute of Electrical and Electronics Engineers",
+    "postNominal": "MIEEE",
+    "agency": ""
+  },
+  {
+    "name": "Senior Member of the Institute of Electrical and Electronics Engineers",
+    "postNominal": "SMIEEE",
+    "agency": ""
+  },
+  {
+    "name": "Senior Member of the Institute of Industrial Engineers",
+    "postNominal": "SIIE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Drafter",
+    "postNominal": "CD",
+    "agency": ""
+  },
+  {
+    "name": "Professional Geologist",
+    "postNominal": "PG",
+    "agency": "Licensure by individual state boards, examination by National Association of State Boards of Geology"
+  },
+  {
+    "name": "Geologist-in-Training",
+    "postNominal": "GIT",
+    "agency": "Licensure by individual state boards, examination by National Association of State Boards of Geology"
+  },
+  {
+    "name": "Certified Professional Geologist",
+    "postNominal": "CPG",
+    "agency": "American Institute of Professional Geologists"
+  },
+  {
+    "name": "Certified Photogrammetrist",
+    "postNominal": "CP",
+    "agency": ""
+  },
+  {
+    "name": "Geographic Information Systems Professional",
+    "postNominal": "GISP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Municipal Clerk",
+    "postNominal": "CMC",
+    "agency": ""
+  },
+  {
+    "name": "Professional County Collector",
+    "postNominal": "PCC",
+    "agency": ""
+  },
+  {
+    "name": "Certified Meeting Professional",
+    "postNominal": "CMP",
+    "agency": "Convention Industry Council"
+  },
+  {
+    "name": "Certified in Exhibition Management",
+    "postNominal": "CEM",
+    "agency": "International Association of Exhibitions and Events"
+  },
+  {
+    "name": "Certified Hospitality Digital Marketer",
+    "postNominal": "CHDM",
+    "agency": "Hospitality Sales and Marketing International"
+  },
+  {
+    "name": "Certified Revenue Management Executive",
+    "postNominal": "CRME",
+    "agency": "Hospitality Sales and Marketing International"
+  },
+  {
+    "name": "Certified in Hospitality Business Acumen",
+    "postNominal": "CHBA",
+    "agency": "Hospitality Sales and Marketing International"
+  },
+  {
+    "name": "Certified in Hospitality Sales Competences",
+    "postNominal": "CHSC",
+    "agency": "Hospitality Sales and Marketing International"
+  },
+  {
+    "name": "Certified Hospitality Sales Executive",
+    "postNominal": "CHSE",
+    "agency": "Hospitality Sales and Marketing International"
+  },
+  {
+    "name": "Certified Guest Service Professional",
+    "postNominal": "CGSP",
+    "agency": "American Hotel & Lodging Association Educational Institute"
+  },
+  {
+    "name": "Certified Hospitality Administrator",
+    "postNominal": "CHA",
+    "agency": "American Hotel & Lodging Association Educational Institute"
+  },
+  {
+    "name": "Certified Hospitality Educator",
+    "postNominal": "CHE",
+    "agency": "American Hotel & Lodging Association Educational Institute"
+  },
+  {
+    "name": "Certified Hospitality Instructor",
+    "postNominal": "CHI",
+    "agency": "American Hotel & Lodging Association Educational Institute"
+  },
+  {
+    "name": "Certified Room Division Executive",
+    "postNominal": "CRDE",
+    "agency": "American Hotel & Lodging Association Educational Institute"
+  },
+  {
+    "name": "Certified Hospitality Revenue Manager",
+    "postNominal": "CHRM",
+    "agency": "American Hotel & Lodging Association Educational Institute"
+  },
+  {
+    "name": "Certified Lodging Security Director",
+    "postNominal": "CLSD",
+    "agency": "American Hotel & Lodging Association Educational Institute"
+  },
+  {
+    "name": "Certified Interpretive Guide",
+    "postNominal": "CIG",
+    "agency": "National Association for Interpretation"
+  },
+  {
+    "name": "Certified Park & Recreation Professional",
+    "postNominal": "CPRP",
+    "agency": "National Recreation & Park Association"
+  },
+  {
+    "name": "Certified Park & Recreation Executive",
+    "postNominal": "CPRE",
+    "agency": "National Recreation & Park Association"
+  },
+  {
+    "name": "Certified Playground Safety Inspector",
+    "postNominal": "CPSI",
+    "agency": "National Recreation & Park Association"
+  },
+  {
+    "name": "Certified Youth Sports Administrator",
+    "postNominal": "CYSA",
+    "agency": "National Association of Youth Sports"
+  },
+  {
+    "name": "Certified Wedding and Event Planner",
+    "postNominal": "CWEP",
+    "agency": "The Wedding Planning Institute, a division of Lovegevity"
+  },
+  {
+    "name": "Certified Wedding Planner",
+    "postNominal": "CWP",
+    "agency": "The Bridal Society"
+  },
+  {
+    "name": "Certified Sommelier",
+    "postNominal": "CS",
+    "agency": "The Court of Master Sommeliers"
+  },
+  {
+    "name": "Master Sommelier",
+    "postNominal": "MS",
+    "agency": "The Court of Master Sommeliers"
+  },
+  {
+    "name": "SHRM Certified Professional",
+    "postNominal": "SHRM-CP",
+    "agency": ""
+  },
+  {
+    "name": "SHRM Senior Certified Professional",
+    "postNominal": "SHRM-SCP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Benefits Professional",
+    "postNominal": "CBP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Compensation Professional",
+    "postNominal": "CCP",
+    "agency": ""
+  },
+  {
+    "name": "Global Remuneration Professional",
+    "postNominal": "GRP",
+    "agency": ""
+  },
+  {
+    "name": "Associate Professional in Human Resources",
+    "postNominal": "aPHR",
+    "agency": ""
+  },
+  {
+    "name": "Professional in Human Resources",
+    "postNominal": "PHR",
+    "agency": ""
+  },
+  {
+    "name": "Senior Professional in Human Resources",
+    "postNominal": "SPHR",
+    "agency": ""
+  },
+  {
+    "name": "Global Professional in Human Resources",
+    "postNominal": "GPHR",
+    "agency": ""
+  },
+  {
+    "name": "Certified Employee Benefits Specialist",
+    "postNominal": "CEBS",
+    "agency": ""
+  },
+  {
+    "name": "Group Benefits Associate",
+    "postNominal": "GBA",
+    "agency": ""
+  },
+  {
+    "name": "Compensation Management Specialist",
+    "postNominal": "CMS",
+    "agency": ""
+  },
+  {
+    "name": "Retirement Plans Associate",
+    "postNominal": "RPA",
+    "agency": ""
+  },
+  {
+    "name": "Certification in Volunteer Administration",
+    "postNominal": "CVA",
+    "agency": ""
+  },
+  {
+    "name": "Certified in Conflict Manager",
+    "postNominal": "CCM",
+    "agency": ""
+  },
+  {
+    "name": "Certified Computer Examiner",
+    "postNominal": "CCE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Chief Information Security Officer",
+    "postNominal": "CCISO",
+    "agency": ""
+  },
+  {
+    "name": "Certified Ethical Hacker",
+    "postNominal": "CEH",
+    "agency": ""
+  },
+  {
+    "name": "Certified Forensic Computer Examiner",
+    "postNominal": "CFCE",
+    "agency": ""
+  },
+  {
+    "name": "Certified Information Professional",
+    "postNominal": "CIP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Information Systems Auditor",
+    "postNominal": "CISA",
+    "agency": ""
+  },
+  {
+    "name": "Certified Information Security Manager",
+    "postNominal": "CISM",
+    "agency": ""
+  },
+  {
+    "name": "Certified Information Systems Security Professional",
+    "postNominal": "CISSP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Network Professional",
+    "postNominal": "CNP",
+    "agency": ""
+  },
+  {
+    "name": "Certified in Risk and Information Systems Control",
+    "postNominal": "CRISC",
+    "agency": ""
+  },
+  {
+    "name": "Certified Secure Computer User",
+    "postNominal": "CSCU",
+    "agency": ""
+  },
+  {
+    "name": "Certified Software Tester",
+    "postNominal": "CSTE",
+    "agency": ""
+  },
+  {
+    "name": "Comptia Advanced Security Practitioner",
+    "postNominal": "CASP",
+    "agency": ""
+  },
+  {
+    "name": "Cisco Certified Network Associate",
+    "postNominal": "CCNA",
+    "agency": ""
+  },
+  {
+    "name": "Cisco Certified Network Professional",
+    "postNominal": "CCNP",
+    "agency": ""
+  },
+  {
+    "name": "IT Infrastructure Library Certified",
+    "postNominal": "ITIL",
+    "agency": ""
+  },
+  {
+    "name": "Microsoft Certified Database Administrator",
+    "postNominal": "MCDBA",
+    "agency": ""
+  },
+  {
+    "name": "Microsoft Certified Systems Administrator",
+    "postNominal": "MCSA",
+    "agency": ""
+  },
+  {
+    "name": "Microsoft Certified Systems Engineer",
+    "postNominal": "MCSE",
+    "agency": ""
+  },
+  {
+    "name": "Microsoft Certified Professional",
+    "postNominal": "MCP",
+    "agency": ""
+  },
+  {
+    "name": "Microsoft Certified Trainer",
+    "postNominal": "MCT",
+    "agency": ""
+  },
+  {
+    "name": "Juris Doctor",
+    "postNominal": "J.D.",
+    "agency": "Used by those who have earned their Juris Doctor degree either alone or in conjunction with other post-nominal letters. Its use by non-attorneys is not restricted."
+  },
+  {
+    "name": "Esquire",
+    "postNominal": "Esq.",
+    "agency": "Used by attorneys who have been admitted to the bar. Its use by non-attorneys may be restricted by state bar associations (see unauthorized practice of law)When Esq. is used it should stand on its own."
+  },
+  {
+    "name": "Bachelor of Civil Law",
+    "postNominal": "BCL",
+    "agency": "Used by English-language universities for various degrees in law. Historically, it originated as a postgraduate degree in the universities of Oxford and Cambridge, but many universities now offer the BCL as an undergraduate degrees"
+  },
+  {
+    "name": "Justice of the Peace",
+    "postNominal": "J.P.",
+    "agency": ""
+  },
+  {
+    "name": "Notary Public",
+    "postNominal": "N.P.",
+    "agency": ""
+  },
+  {
+    "name": "Board Certified Civil Trial Attorney",
+    "postNominal": "",
+    "agency": "National Board of Legal Specialty Certification"
+  },
+  {
+    "name": "Board Certified Criminal Trial Attorney",
+    "postNominal": "",
+    "agency": "National Board of Legal Specialty Certification"
+  },
+  {
+    "name": "Board Certified Family Law Attorney",
+    "postNominal": "",
+    "agency": "National Board of Legal Specialty Certification"
+  },
+  {
+    "name": "Certified Legal Assistant",
+    "postNominal": "CLA",
+    "agency": "National Association of Legal Assistants"
+  },
+  {
+    "name": "Certified Paralegal",
+    "postNominal": "CP",
+    "agency": "National Association of Legal Assistants"
+  },
+  {
+    "name": "Advanced Certified Paralegal",
+    "postNominal": "ACP",
+    "agency": "National Association of Legal Assistants"
+  },
+  {
+    "name": "Accredited Legal Professional",
+    "postNominal": "ALP",
+    "agency": "NALS (formerly the National Association of Legal Secretaries)"
+  },
+  {
+    "name": "Professional Legal Secretary",
+    "postNominal": "PLS",
+    "agency": "NALS (formerly the National Association of Legal Secretaries)"
+  },
+  {
+    "name": "Professional Paralegal",
+    "postNominal": "PP",
+    "agency": "NALS (formerly the National Association of Legal Secretaries)"
+  },
+  {
+    "name": "Registered Paralegal",
+    "postNominal": "RP",
+    "agency": "NFPA (National Federation of Paralegal Associations)"
+  },
+  {
+    "name": "CORE Registered Paralegal",
+    "postNominal": "CRP",
+    "agency": "NFPA (National Federation of Paralegal Associations)"
+  },
+  {
+    "name": "Master of Laws",
+    "postNominal": "LL.M.",
+    "agency": "Used by attorneys who have also completed a related master's degree, usually a specialization. Its use by non-attorneys is not restricted."
+  },
+  {
+    "name": "Certified Professional Logistician",
+    "postNominal": "CPL",
+    "agency": "International Society of Logistics"
+  },
+  {
+    "name": "Certified in Production & Inventory Management",
+    "postNominal": "CPIM",
+    "agency": "APICS American Production & Inventory Control Society ((Certified Supply Chain Professional )) CSCP (( APICS))"
+  },
+  {
+    "name": "Certified Transportation Professional",
+    "postNominal": "CTP",
+    "agency": "National Private Truck Council"
+  },
+  {
+    "name": "Master Tower®",
+    "postNominal": "CMT",
+    "agency": "[[National Driver Certification Program®][11]]"
+  },
+  {
+    "name": "Certified in Logistics, Transportation and Distribution",
+    "postNominal": "CLTD",
+    "agency": "APICS American Production & Inventory Control Society"
+  },
+  {
+    "name": "American Board of Professional Psychology",
+    "postNominal": "ABPP",
+    "agency": "Qualification beyond state licensure currently in 13 specialties, including clinical, school, and forensic psychology"
+  },
+  {
+    "name": "Certified Genetic Counselor",
+    "postNominal": "CGC",
+    "agency": "*The American Board of Genetic Counseling (ABGC)* is the credentialing organization for the genetic counseling profession in the United States and Canada. The ABGC certifies and recertifies qualified genetic counseling professionals. In this way, the work of the ABGC protects the public and promotes the ongoing growth and development of the genetic counseling profession.[12]"
+  },
+  {
+    "name": "Certified Health Education Specialist",
+    "postNominal": "CHES",
+    "agency": "National Commission for Health Education Credentialing, Inc."
+  },
+  {
+    "name": "Master Certified Health Education Specialist",
+    "postNominal": "MCHES",
+    "agency": "National Commission for Health Education Credentialing, Inc."
+  },
+  {
+    "name": "Master of Public Health",
+    "postNominal": "MPH",
+    "agency": "Accredited through the Council on Education for Public Health. Focuses on public health practice (rather than research) and includes health education and epidemiology."
+  },
+  {
+    "name": "Certified HIPAA Privacy Associate",
+    "postNominal": "CHPA",
+    "agency": "Basic level certification for covered entities and business associates employees, interns, volunteers and others."
+  },
+  {
+    "name": "Certified HIPAA Privacy Expert",
+    "postNominal": "CHPE",
+    "agency": "Intermediate level certification for covered entities and business associates employees who need to validate their HIPAA Privacy knowledge. This certification is mainly for HR staff, privacy consultants and Privacy compliance team members."
+  },
+  {
+    "name": "Certified HIPAA Privacy Security Expert",
+    "postNominal": "CHPSE",
+    "agency": "Highest level of certification for covered entities and business associates HIPAA compliance officer who need to validate their HIPAA Privacy & Security knowledge. This certification is mainly for compliance staff, HIPAA consultants, HIPAA auditors and HIPAA Compliance officer."
+  },
+  {
+    "name": "Certified HIPAA Professional",
+    "postNominal": "CHP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Hospice and Palliative Licensed Nurse",
+    "postNominal": "CHPLN",
+    "agency": "must hold a current, unrestricted practical/vocational nurse license in the United States or its territories and must have hospice and palliative licensed practical/vocational nursing practice of 500 hours in the most recent 12 months or 1000 hours in the most recent 24 months prior to applying for the examination.[13]"
+  },
+  {
+    "name": "Certified HIPAA Security Expert",
+    "postNominal": "CHSE",
+    "agency": "Intermediate level certification for covered entities and business associates employees who need to validate their HIPAA Security knowledge. This certification is mainly for IT staff, security consultants and Security compliance team members."
+  },
+  {
+    "name": "Certified HIPAA Security Specialist",
+    "postNominal": "CHSS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Veterinary Assistant",
+    "postNominal": "CVA[14]",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Veterinary Medicine",
+    "postNominal": "DVM",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Chiropractic",
+    "postNominal": "DC",
+    "agency": "A professional doctoral degree for chiropractic physicians."
+  },
+  {
+    "name": "Doctor of Dental Surgery",
+    "postNominal": "D.D.S. or DDS",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Psychology",
+    "postNominal": "Psy.D. or PsyD",
+    "agency": "A professional doctoral degree for clinical psychologists. Clinical psychologists who complete additional research as a component of their academic training are awarded a PhD in Psychology. Either of these degrees may be listed postnominally with ABPP to designate completion of board specialization beyond licensure."
+  },
+  {
+    "name": "Doctor of Dental Medicine",
+    "postNominal": "D.M.D. or DMD",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Medicine",
+    "postNominal": "M.D. or MD",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Naturopathic Medicine",
+    "postNominal": "ND or NMD",
+    "agency": "A professional doctoral degree for naturopathic practitioners in the United States. Holders of the ND or NMD degree are known as naturopathic physicians in states where they may be licensed. The designation NMD is used in Arizona."
+  },
+  {
+    "name": "Doctor of Nursing Practice",
+    "postNominal": "DNP",
+    "agency": "A terminal professional degree that focuses on the clinical aspects of nursing rather than academic research. The curriculum for the DNP degree generally includes advanced practice, leadership, and application of clinical research. The DNP is intended primarily to prepare registered nurses to become advanced practice registered nurses. Advanced practice roles in nursing include the nurse practitioner (NP), certified registered nurse anesthetist (CRNA), certified nurse midwife (CNM), the clinical nurse specialist (CNS), and Nursing Administrators."
+  },
+  {
+    "name": "Doctor of Optometry",
+    "postNominal": "OD",
+    "agency": "A professional doctoral degree for Optometrists"
+  },
+  {
+    "name": "Doctor of Osteopathic Medicine",
+    "postNominal": "D.O. or DO",
+    "agency": "A professional doctoral degree for physicians in the United States. Holders of the DO degree are known as osteopathic physicians and have equivalent rights, privileges, and responsibilities as physicians with a Doctor of Medicine degree (M.D.). Osteopathic medical school curricula closely mirror those of Doctor of Medicine M.D.-granting medical schools. However, osteopathic physicians also receive an additional 300 – 500 hours in the study of hands-on manual medicine and the body's musculoskeletal system integrated into the medical curriculum, which is referred to as osteopathic manipulative medicine."
+  },
+  {
+    "name": "Doctor of Podiatric Medicine",
+    "postNominal": "D.P.M.",
+    "agency": "A Doctor of Podiatric Medicine (DPM) is a physician that specializes in diagnosing and treating conditions of the foot, ankle, and related structures of the leg. DPMs are also known as podiatric physicians or surgeons. They complete four years of training in a podiatric medical school and three years of hospital residency training. This training is similar to that of other medical or osteopathic doctors but with an emphasized scope on foot, ankle, and lower extremity."
+  },
+  {
+    "name": "Emergency Medical Dispatcher",
+    "postNominal": "EMD",
+    "agency": "Certified through the Association of Public-Safety Communications Officials-International (APCO), the National Academies of Emergency Dispatch, and PowerPhone, Inc."
+  },
+  {
+    "name": "Nationally Registered Emergency Medical Responder (Begin January 1, 2012)",
+    "postNominal": "NREMR",
+    "agency": "All require passage of the National EMS Certification Exam-EMR (NREMR), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Basic (End December 31, 2011)",
+    "postNominal": "EMT-B",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Basic Exam (NREMT-B), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Nationally Registered Emergency Medical Technician (Begin January 1, 2012)",
+    "postNominal": "NREMT",
+    "agency": "All require passage of the National EMS Certification Exam-EMT (NREMT), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Intermediate/85 (End March 31, 2013)",
+    "postNominal": "EMT-I/85",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Intermediate/85 Exam (NREMT-I/85), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Intermediate/99 (End December 31, 2013)",
+    "postNominal": "EMT-I/99",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Intermediate/99 Exam (NREMT-I/99), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Nationally Registered Advanced Emergency Medical Technician (Begin June 1, 2011)",
+    "postNominal": "NRAEMT",
+    "agency": "All require passage of the National EMS Certification Exam-Advanced EMT (NRAEMT), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Paramedic (End December 31, 2012)",
+    "postNominal": "EMT-P",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Paramedic Exam (NREMT-P), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Nationally Registered Paramedic (Begin January 1, 2013)",
+    "postNominal": "NRP",
+    "agency": "All require passage of the National EMS Certification Exam-Paramedic (NRP), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Licensed Paramedic (Texas)",
+    "postNominal": "LP",
+    "agency": "Licensure by Texas Department of State HealthAll require passage of the National Registry of Emergency Medical Technicians- EMT-Paramedic or National EMS Certification Exam-Paramedic (NREMT-P or NRP after January 1, 2013), developed by the National Registry of Emergency Medical TechniciansAll require an associate degree in emergency medical services (EMS), a baccalaureate degree, or a postgraduate degree"
+  },
+  {
+    "name": "Licensed Practical Nurse (much of U.S.)Licensed Vocational Nurse (California and Texas)",
+    "postNominal": "LPNLVN",
+    "agency": "Licensure by individual state nursing boardsAll require passage of the National Council Licensure Examination-Practical Nurse (NCLEX-PN), developed by the National Council of State Boards of Nursing"
+  },
+  {
+    "name": "Registered Nurse",
+    "postNominal": "RN",
+    "agency": "Licensure by individual state nursing boardsAll require passage of the National Council Licensure Examination-Registered Nurse (NCLEX-RN), developed by the National Council of State Boards of Nursing"
+  },
+  {
+    "name": "Advanced Practice NurseAdvanced Practice Registered Nurse",
+    "postNominal": "APNAPRN",
+    "agency": "Various"
+  },
+  {
+    "name": "Certified Massage Therapist",
+    "postNominal": "CMT",
+    "agency": "Certification by individual state boards"
+  },
+  {
+    "name": "Licensed Massage Therapist",
+    "postNominal": "LMT",
+    "agency": "Licensure by individual state boardsRequires passing of NCETMB or MBLEx"
+  },
+  {
+    "name": "Licensed Clinical Massage Therapist",
+    "postNominal": "LCMT",
+    "agency": "Licensure by individual state boardsRequires passing of NCETMB or MBLExClinical education specialized for health care practice"
+  },
+  {
+    "name": "Licensed Midwife",
+    "postNominal": "LM",
+    "agency": "state or provincial licensing"
+  },
+  {
+    "name": "Certified Midwife",
+    "postNominal": "CM",
+    "agency": "Accreditation Commission for Midwifery Education (accredits education programs)American Midwifery Certification Board (administers certification exam)American College of Nurse-Midwives (defines requirements)"
+  },
+  {
+    "name": "Certified Professional Midwife",
+    "postNominal": "CPM",
+    "agency": "North American Registry of Midwives"
+  },
+  {
+    "name": "Certified Nurse-Midwife",
+    "postNominal": "CNM",
+    "agency": "Accreditation Commission for Midwifery Education (accredits education programs)American Midwifery Certification Board (administers certification exam)American College of Nurse-Midwives (defines requirements)"
+  },
+  {
+    "name": "Certified Registered Nurse Anesthetist",
+    "postNominal": "CRNA",
+    "agency": "American Association of Nurse Anesthetists Council on Accreditation of Nurse Anesthesia Educational Programs (accredits education programs)AANA Council on Certification of Nurse Anesthetists (administers certification exam)AANA Council on Recertification of Nurse Anesthetists (recertification)"
+  },
+  {
+    "name": "Nurse Practitioner",
+    "postNominal": "NP",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Marine Physician Assistant",
+    "postNominal": "MPA",
+    "agency": "Federal Certificate of Registry U.S.C.G."
+  },
+  {
+    "name": "Occupational Therapist",
+    "postNominal": "OTR",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Physician Assistant",
+    "postNominal": "PA-C",
+    "agency": "National Commission on Certification of Physician Assistants"
+  },
+  {
+    "name": "Registered Veterinary Technician",
+    "postNominal": "RVT",
+    "agency": ""
+  },
+  {
+    "name": "Physical Therapist",
+    "postNominal": "PT",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Physical Therapy Assistant",
+    "postNominal": "PTA",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Certified in Public Health",
+    "postNominal": "CPH",
+    "agency": "National Board of Public Health Examiners"
+  },
+  {
+    "name": "Medical Laboratory Scientist",
+    "postNominal": "MLS",
+    "agency": "American Society for Clinical Pathology"
+  },
+  {
+    "name": "Medical Technologist",
+    "postNominal": "MT",
+    "agency": "State Licensure, American Medical Technologists"
+  },
+  {
+    "name": "Medical Laboratory Technician",
+    "postNominal": "MLT",
+    "agency": "State Licensure, American Society for Clinical Pathology, American Medical Technologists"
+  },
+  {
+    "name": "Licensed Professional Counselor",
+    "postNominal": "LPC or LCPC",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Associate Counselor",
+    "postNominal": "LAC",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Master Social Worker",
+    "postNominal": "LMSW",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Clinical Social Worker",
+    "postNominal": "LCSW",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Veterinary Technician",
+    "postNominal": "LVT",
+    "agency": ""
+  },
+  {
+    "name": "Qualified Clinical Social Worker",
+    "postNominal": "QCSW",
+    "agency": "National Association of Social Workers"
+  },
+  {
+    "name": "Certified Tissue Bank Specialist",
+    "postNominal": "CTBS",
+    "agency": "American Association of Tissue Banks"
+  },
+  {
+    "name": "Certified Hypnotherapist",
+    "postNominal": "CHt",
+    "agency": ""
+  },
+  {
+    "name": "National Board Certified Clinical Hypnotherapist",
+    "postNominal": "NBCCH",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Clinical Hypnotherapist in Public Service",
+    "postNominal": "NBCCH-PS",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Diplomate in Clinical Hypnotherapy",
+    "postNominal": "NBCDCH",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Diplomate in Clinical Hypnotherapy in Public Service",
+    "postNominal": "NBCDCH-PS",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Fellow in Clinical Hypnotherapy",
+    "postNominal": "NBCFCH",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Fellow in Clinical Hypnotherapy in Public Service",
+    "postNominal": "NBCFCH-PS",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "Licensed Acupuncturist",
+    "postNominal": "L.Ac.",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Diplomate in Acupuncture",
+    "postNominal": "Dipl.Ac.",
+    "agency": "National Certification Commission for Acupuncture and Oriental Medicine"
+  },
+  {
+    "name": "Diplomate in Oriental Medicine",
+    "postNominal": "Dipl.O.M.",
+    "agency": "National Certification Commission for Acupuncture and Oriental Medicine"
+  },
+  {
+    "name": "Fellow of the American Society for Parenteral and Enteral Nutrition",
+    "postNominal": "FASPEN",
+    "agency": "American Society for Parenteral and Enteral Nutrition"
+  },
+  {
+    "name": "Fellow of the American Academy of Nursing",
+    "postNominal": "FAAN",
+    "agency": "American Academy of Nursing"
+  },
+  {
+    "name": "Fellow of the American Society of Health-System Pharmacists",
+    "postNominal": "FASHP",
+    "agency": "American Society of Health-System Pharmacists"
+  },
+  {
+    "name": "Fellow of the American Academy of Emergency Medicine",
+    "postNominal": "FAAEM",
+    "agency": "American Academy of Emergency Medicine"
+  },
+  {
+    "name": "Fellow of the Aerospace Medical Association",
+    "postNominal": "FAsMA",
+    "agency": "Aerospace Medical Association"
+  },
+  {
+    "name": "Associate Fellow of the Aerospace Medical Association",
+    "postNominal": "AFAsMA",
+    "agency": "Aerospace Medical Association"
+  },
+  {
+    "name": "Certified Aerospace Physiologist",
+    "postNominal": "CAsP",
+    "agency": "Aerospace Medical Association"
+  },
+  {
+    "name": "Aviation Medical Examiner",
+    "postNominal": "AME",
+    "agency": "Federal Aviation Administration"
+  },
+  {
+    "name": "Senior Aviation Medical Examiner",
+    "postNominal": "SAME",
+    "agency": "Federal Aviation Administration"
+  },
+  {
+    "name": "Fellow of the American Academy of Pediatrics",
+    "postNominal": "FAAP",
+    "agency": "American Academy of Pediatrics"
+  },
+  {
+    "name": "Fellow of the American College of Cardiology",
+    "postNominal": "FACC",
+    "agency": "American College of Cardiology"
+  },
+  {
+    "name": "Fellow of the American College of Dentists",
+    "postNominal": "FACD",
+    "agency": "American College of Dentists"
+  },
+  {
+    "name": "Fellow of the American College of Endocrinology",
+    "postNominal": "FACE",
+    "agency": "American College of Endocrinology"
+  },
+  {
+    "name": "Fellow of the American College of Physicians",
+    "postNominal": "FACP",
+    "agency": "American College of Physicians"
+  },
+  {
+    "name": "Fellow of the American College of Surgeons",
+    "postNominal": "FACS",
+    "agency": "American College of Surgeons"
+  },
+  {
+    "name": "Fellow of the American College of Osteopathic Family Physicians",
+    "postNominal": "FACOFP",
+    "agency": "American College of Osteopathic Family Physicians"
+  },
+  {
+    "name": "Fellow of the American Congress of Obstetricians and Gynecologists",
+    "postNominal": "FACOG",
+    "agency": "American Congress of Obstetricians and Gynecologists"
+  },
+  {
+    "name": "Doctor of Pharmacy",
+    "postNominal": "PharmD",
+    "agency": "State boards of pharmacy"
+  },
+  {
+    "name": "Certified Pharmacy Technician",
+    "postNominal": "CPhT",
+    "agency": "Pharmacy Technician Certification Board"
+  },
+  {
+    "name": "Registered Pharmacist",
+    "postNominal": "R.Ph. or RPh",
+    "agency": "State boards of pharmacy"
+  },
+  {
+    "name": "Registered Respiratory Therapist",
+    "postNominal": "RRT",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Registered Respiratory Therapist, Neonatal & Pediatric Specialist",
+    "postNominal": "RRT-NPS",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Registered Respiratory Therapist, Sleep Disorder Specialist",
+    "postNominal": "RRT-SDS",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Registered Respiratory Therapist, Adult Critical Care Specialist",
+    "postNominal": "RRT-ACCS",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Respiratory practitioner",
+    "postNominal": "RP, RCP",
+    "agency": "State Boards of Respiratory Care"
+  },
+  {
+    "name": "Certified Respiratory Therapy Technician",
+    "postNominal": "CRTT",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Certified Respiratory Therapist",
+    "postNominal": "CRT",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Certified Phlebotomy Technician",
+    "postNominal": "CPT",
+    "agency": "National Healthcareer Association"
+  },
+  {
+    "name": "Certified Athletic trainer",
+    "postNominal": "ATC",
+    "agency": "Board of Certification, Inc.May be restricted by state licensure."
+  },
+  {
+    "name": "Certified Medical Assistant",
+    "postNominal": "CMA",
+    "agency": "American Association of Medical Assistants"
+  },
+  {
+    "name": "United States Army",
+    "postNominal": "USA",
+    "agency": ""
+  },
+  {
+    "name": "United States Navy",
+    "postNominal": "USN",
+    "agency": ""
+  },
+  {
+    "name": "United States Navy Reserve",
+    "postNominal": "USNR",
+    "agency": ""
+  },
+  {
+    "name": "United States Air Force",
+    "postNominal": "USAF",
+    "agency": ""
+  },
+  {
+    "name": "United States Marine Corps",
+    "postNominal": "USMC",
+    "agency": ""
+  },
+  {
+    "name": "United States Coast Guard",
+    "postNominal": "USCG",
+    "agency": ""
+  },
+  {
+    "name": "Retired",
+    "postNominal": "(Ret.)",
+    "agency": ""
+  },
+  {
+    "name": "Member of the Appraisal Institute[15]",
+    "postNominal": "MAI",
+    "agency": "Appraisal Institute"
+  },
+  {
+    "name": "Senior Residential Appraiser[15]",
+    "postNominal": "SRA",
+    "agency": "Appraisal Institute"
+  },
+  {
+    "name": "Accredited Member[16]",
+    "postNominal": "AM",
+    "agency": "American Society of Appraisers"
+  },
+  {
+    "name": "Accredited Senior Appraiser[16]",
+    "postNominal": "ASA",
+    "agency": "American Society of Appraisers"
+  },
+  {
+    "name": "Assessment Administration Specialist[17]",
+    "postNominal": "AAS",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Certified Assessment Evaluator[18]",
+    "postNominal": "CAE",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Cadastral Mapping Specialist[19]",
+    "postNominal": "CMS",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Personal Property Specialist[20]",
+    "postNominal": "PPS",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Residential Evaluation Specialist[21]",
+    "postNominal": "RES",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Master in Residential Marketing [22]",
+    "postNominal": "MIRM",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Green Professional [22]",
+    "postNominal": "CGP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Graduate Builder[22]",
+    "postNominal": "CGB",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Graduate Associate[22]",
+    "postNominal": "CGA",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Master Certified New Home Sales Professional [22]",
+    "postNominal": "Master CSP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Aging-in-Place Specialist[22]",
+    "postNominal": "CAPS",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified New Home Marketing Professional [22]",
+    "postNominal": "CMP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Housing Credit Certified Professional [22]",
+    "postNominal": "HCCP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified New Home Sales Professional [22]",
+    "postNominal": "CSP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Graduate Master Remodeler [22]",
+    "postNominal": "GMR",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Graduate Master Builder[22]",
+    "postNominal": "GMB",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Graduate Remodeler [22]",
+    "postNominal": "CGR",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Accredited Buyer's Representative",
+    "postNominal": "ABR",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Graduate Realtor Institute",
+    "postNominal": "GRI",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Accredited Land Consultant",
+    "postNominal": "ALC",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified International Property Specialist",
+    "postNominal": "CIPS",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified Property Manager",
+    "postNominal": "CPM",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified Commercial Investment Member",
+    "postNominal": "CCIM",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified Corporate Housing Professional",
+    "postNominal": "CCHP",
+    "agency": "Corporate Housing Providers Association"
+  },
+  {
+    "name": "Member of the National Association of Appraisers[23]",
+    "postNominal": "MNAA",
+    "agency": "National Association of Appraisers"
+  },
+  {
+    "name": "Doctor of Divinity",
+    "postNominal": "DD",
+    "agency": "Used by those who have been granted an honorary degree by theological seminary or university in the United States."
+  },
+  {
+    "name": "Doctor of Theology",
+    "postNominal": "ThD",
+    "agency": "Used by those who have earned a doctorate in academic studies at a theological seminary or university. At those institutions offering it, it is considered a terminal degree in academic theology (at other institutions it is the PhD or DPhil in theology)."
+  },
+  {
+    "name": "Doctor of Ministry",
+    "postNominal": "DMin",
+    "agency": "Used by those who have earned a professional doctorate degree at a theological seminary or university."
+  },
+  {
+    "name": "Master of Theology",
+    "postNominal": "ThM",
+    "agency": "Used by those who have earned a master in academic studies at a theological seminary or university."
+  },
+  {
+    "name": "Master of Divinity",
+    "postNominal": "MDiv",
+    "agency": "Used by those who have earned a professional master's degree at a theological seminary or university. Although it is a master's degree, academic completion requires 3 years of graduate training and it is considered a terminal degree in this field."
+  },
+  {
+    "name": "Master of Theological Studies",
+    "postNominal": "MTS",
+    "agency": "Used by those who have earned a master's degree at a theological seminary or university."
+  },
+  {
+    "name": "Certified Church Business Administrator",
+    "postNominal": "CCA",
+    "agency": "National Association of Church Business Administrators"
+  },
+  {
+    "name": "Knight/Dame of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "KHS/DHS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Knight/Dame Commander of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "KCHS/DCHS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Knight/Dame Commander with Star of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "KC*HS/DC*HS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Knight/Dame Grand Cross of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "GCHS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Professional Surveyor & Mapper",
+    "postNominal": "PSM",
+    "agency": ""
+  },
+  {
+    "name": "Professional Land Surveyor",
+    "postNominal": "PLS",
+    "agency": ""
+  },
+  {
+    "name": "Registered Land Surveyor",
+    "postNominal": "RLS",
+    "agency": ""
+  },
+  {
+    "name": "Surveyor Intern",
+    "postNominal": "SI",
+    "agency": ""
+  },
+  {
+    "name": "Land Surveyor Intern",
+    "postNominal": "LSI",
+    "agency": ""
+  },
+  {
+    "name": "Land Surveyor-in-Training",
+    "postNominal": "LSIT",
+    "agency": ""
+  },
+  {
+    "name": "Certified Federal Surveyor",
+    "postNominal": "CFedS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Installation Professional",
+    "postNominal": "BPI",
+    "agency": "Society of Cable and Telecommunication Engineers / International Society of Broadband Experts"
+  },
+  {
+    "name": "Broadband Premises Technician",
+    "postNominal": "BPT",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Premises Expert",
+    "postNominal": "BPE",
+    "agency": ""
+  },
+  {
+    "name": "Business Class Services Specialist",
+    "postNominal": "BCSS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Distribution Specialist",
+    "postNominal": "BDS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Transport Specialist",
+    "postNominal": "BTS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband TelecomCenter Specialist",
+    "postNominal": "BTCS",
+    "agency": ""
+  },
+  {
+    "name": "DOCSIS® Engineering Professional",
+    "postNominal": "DEP",
+    "agency": ""
+  },
+  {
+    "name": "Digital Video Engineering Professional",
+    "postNominal": "DVEP",
+    "agency": ""
+  },
+  {
+    "name": "Internet Protocol Engineering Professional",
+    "postNominal": "IPEP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Professional in Learning and Performance",
+    "postNominal": "CPLP",
+    "agency": "American Society for Training & Development"
+  },
+  {
+    "name": "Certified Safety Professional",
+    "postNominal": "CSP",
+    "agency": "Board of Certified Safety Professionals"
+  },
+  {
+    "name": "Registered Business Analyst",
+    "postNominal": "RBA",
+    "agency": "American Academy of Financial Management"
+  },
+  {
+    "name": "Accredited Business Communicator",
+    "postNominal": "ABC",
+    "agency": "International Association of Business Communicators"
+  },
+  {
+    "name": "Doctor of Philosophy Candidate",
+    "postNominal": "ABD",
+    "agency": "Doctor of Philosophy Candidate (\"all but dissertation\")"
+  },
+  {
+    "name": "Accredited in Public Relations",
+    "postNominal": "APR",
+    "agency": "Public Relations Society of America"
+  },
+  {
+    "name": "Editor in the Life Sciences",
+    "postNominal": "ELS",
+    "agency": "Board of Editors in the Life Sciences"
+  },
+  {
+    "name": "Certified Administrative Professional",
+    "postNominal": "CAP",
+    "agency": "International Association of Administrative Professionals (IAAP)"
+  },
+  {
+    "name": "Certified Analytics Professional",
+    "postNominal": "CAP",
+    "agency": "INFORMS, Institute for Operations Research and the Management Sciences"
+  },
+  {
+    "name": "Certified Anti-Terrorism Specialist",
+    "postNominal": "CAS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Associate in Project Management",
+    "postNominal": "CAPM",
+    "agency": "Project Management Institute"
+  },
+  {
+    "name": "Certified Broadcast Meteorologist",
+    "postNominal": "CBM or AMS",
+    "agency": "American Meteorological Society"
+  },
+  {
+    "name": "Certified Experience Analyst",
+    "postNominal": "CXA",
+    "agency": "Human Factors International"
+  },
+  {
+    "name": "Certified Fire Protection Specialist",
+    "postNominal": "CFPS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Forensic Interviewer",
+    "postNominal": "CFI",
+    "agency": "International Association of Interviewers"
+  },
+  {
+    "name": "Certified Manager",
+    "postNominal": "CM",
+    "agency": ""
+  },
+  {
+    "name": "Certified Master Anti-Terrorism Specialist",
+    "postNominal": "CMAS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Protection Professional",
+    "postNominal": "CPP",
+    "agency": "ASIS International"
+  },
+  {
+    "name": "Certified Public Relations Counselor",
+    "postNominal": "CPRC",
+    "agency": "Florida Public Relations Association"
+  },
+  {
+    "name": "Certified Assistant Refrigeration Operator",
+    "postNominal": "CARO",
+    "agency": "Refrigerating Engineers & Technicians Association"
+  },
+  {
+    "name": "Certified Industrial Refrigeration Operator",
+    "postNominal": "CIRO",
+    "agency": "Refrigerating Engineers & Technicians Association"
+  },
+  {
+    "name": "RETA Authorized Instructor",
+    "postNominal": "RAI",
+    "agency": "Refrigerating Engineers & Technicians Association"
+  },
+  {
+    "name": "Certified Systems Engineering Professional",
+    "postNominal": "CSEP",
+    "agency": "International Council on Systems Engineering"
+  },
+  {
+    "name": "Certified Usability Analyst",
+    "postNominal": "CUA",
+    "agency": "Human Factors International"
+  },
+  {
+    "name": "Certified Youth Development Specialist",
+    "postNominal": "CYDS",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Education",
+    "postNominal": "EdD or DEd",
+    "agency": ""
+  },
+  {
+    "name": "Doctorate of Strategic Security",
+    "postNominal": "DSS",
+    "agency": "Henley-Putnam University"
+  },
+  {
+    "name": "Fellow of The Explorers Club",
+    "postNominal": "FEC",
+    "agency": "The Explorers Club"
+  },
+  {
+    "name": "Fellow of the Society of Decision Professionals",
+    "postNominal": "FSDP",
+    "agency": "The Society of Decision Professionals"
+  },
+  {
+    "name": "French Wine Scholar",
+    "postNominal": "FWS",
+    "agency": ""
+  },
+  {
+    "name": "Licensed Funeral Director",
+    "postNominal": "FD",
+    "agency": ""
+  },
+  {
+    "name": "Mobile Certified Marketer",
+    "postNominal": "MCM",
+    "agency": "Mobile Marketing Association"
+  },
+  {
+    "name": "National Board Certified Teacher",
+    "postNominal": "NBCT",
+    "agency": ""
+  },
+  {
+    "name": "Fellow of the National Speleological Society",
+    "postNominal": "FNSS",
+    "agency": "National Speleological Society"
+  },
+  {
+    "name": "Doctor of Philosophy",
+    "postNominal": "Ph.D.",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Philosophy Candidate",
+    "postNominal": "Ph.C.",
+    "agency": "Doctor of Philosophy Candidate"
+  },
+  {
+    "name": "Master of Arts",
+    "postNominal": "MA or M.A.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Fine Arts",
+    "postNominal": "MFA or M.F.A.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Science",
+    "postNominal": "MSc or M.Sc.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Business Administration",
+    "postNominal": "MBA or M.B.A.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Public Administration",
+    "postNominal": "MPA or M.P.A.",
+    "agency": ""
+  },
+  {
+    "name": "Physical Security Professional",
+    "postNominal": "PSP",
+    "agency": ""
+  },
+  {
+    "name": "Professional Certified Investigator",
+    "postNominal": "PCI",
+    "agency": ""
+  },
+  {
+    "name": "Professional Manager Certification",
+    "postNominal": "PMC",
+    "agency": "The Air University"
+  },
+  {
+    "name": "Project Management Professional",
+    "postNominal": "PMP",
+    "agency": "Project Management Institute"
+  },
+  {
+    "name": "Qualified SWPPP Designer",
+    "postNominal": "QSD",
+    "agency": "California Stormwater Quality Association"
+  },
+  {
+    "name": "Qualified SWPPP Practitioner",
+    "postNominal": "QSP",
+    "agency": "California Stormwater Quality Association"
+  },
+  {
+    "name": "Registered Professional Archaeologist",
+    "postNominal": "RPA",
+    "agency": ""
+  },
+  {
+    "name": "Registered Construction Inspector (Division I,II,III, or IV)",
+    "postNominal": "RCI",
+    "agency": "American Construction Inspectors Association"
+  },
+  {
+    "name": "Systems Security Certified Practitioner",
+    "postNominal": "SSCP",
+    "agency": ""
+  },
+  {
+    "name": "Multi Sport Athlete",
+    "postNominal": "MSA",
+    "agency": ""
+  },
+  {
+    "name": "Member of the ACE",
+    "postNominal": "ACE",
+    "agency": "American Cinema Editors"
+  },
+  {
+    "name": "Member of the ASC",
+    "postNominal": "ASC",
+    "agency": "American Society of Cinematographers"
+  },
+  {
+    "name": "Member of the CSA",
+    "postNominal": "CSA",
+    "agency": "Casting Society of America"
+  },
+  {
+    "name": "Member of the MPSE",
+    "postNominal": "MPSE",
+    "agency": "Motion Picture Sound Editors"
+  },
+  {
+    "name": "Certified E-Discovery Specialist",
+    "postNominal": "CEDS",
+    "agency": "Association of Certified E-Discovery Specialists"
+  },
+  {
+    "name": "NERC Certified System Operator",
+    "postNominal": "NCSO",
+    "agency": "NERC Personnel Subcommittee (PS) and Personnel Certification Governance Committee (PGSC)"
+  },
+  {
+    "name": "American Board of Professional Psychology",
+    "postNominal": "ABPP",
+    "agency": "Qualification beyond state licensure currently in 13 specialties, including clinical, school, and forensic psychology"
+  },
+  {
+    "name": "Certified Genetic Counselor",
+    "postNominal": "CGC",
+    "agency": "*The American Board of Genetic Counseling (ABGC)* is the credentialing organization for the genetic counseling profession in the United States and Canada. The ABGC certifies and recertifies qualified genetic counseling professionals. In this way, the work of the ABGC protects the public and promotes the ongoing growth and development of the genetic counseling profession.[12]"
+  },
+  {
+    "name": "Certified Health Education Specialist",
+    "postNominal": "CHES",
+    "agency": "National Commission for Health Education Credentialing, Inc."
+  },
+  {
+    "name": "Master Certified Health Education Specialist",
+    "postNominal": "MCHES",
+    "agency": "National Commission for Health Education Credentialing, Inc."
+  },
+  {
+    "name": "Master of Public Health",
+    "postNominal": "MPH",
+    "agency": "Accredited through the Council on Education for Public Health. Focuses on public health practice (rather than research) and includes health education and epidemiology."
+  },
+  {
+    "name": "Certified HIPAA Privacy Associate",
+    "postNominal": "CHPA",
+    "agency": "Basic level certification for covered entities and business associates employees, interns, volunteers and others."
+  },
+  {
+    "name": "Certified HIPAA Privacy Expert",
+    "postNominal": "CHPE",
+    "agency": "Intermediate level certification for covered entities and business associates employees who need to validate their HIPAA Privacy knowledge. This certification is mainly for HR staff, privacy consultants and Privacy compliance team members."
+  },
+  {
+    "name": "Certified HIPAA Privacy Security Expert",
+    "postNominal": "CHPSE",
+    "agency": "Highest level of certification for covered entities and business associates HIPAA compliance officer who need to validate their HIPAA Privacy & Security knowledge. This certification is mainly for compliance staff, HIPAA consultants, HIPAA auditors and HIPAA Compliance officer."
+  },
+  {
+    "name": "Certified HIPAA Professional",
+    "postNominal": "CHP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Hospice and Palliative Licensed Nurse",
+    "postNominal": "CHPLN",
+    "agency": "must hold a current, unrestricted practical/vocational nurse license in the United States or its territories and must have hospice and palliative licensed practical/vocational nursing practice of 500 hours in the most recent 12 months or 1000 hours in the most recent 24 months prior to applying for the examination.[13]"
+  },
+  {
+    "name": "Certified HIPAA Security Expert",
+    "postNominal": "CHSE",
+    "agency": "Intermediate level certification for covered entities and business associates employees who need to validate their HIPAA Security knowledge. This certification is mainly for IT staff, security consultants and Security compliance team members."
+  },
+  {
+    "name": "Certified HIPAA Security Specialist",
+    "postNominal": "CHSS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Veterinary Assistant",
+    "postNominal": "CVA[14]",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Veterinary Medicine",
+    "postNominal": "DVM",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Chiropractic",
+    "postNominal": "DC",
+    "agency": "A professional doctoral degree for chiropractic physicians."
+  },
+  {
+    "name": "Doctor of Dental Surgery",
+    "postNominal": "D.D.S. or DDS",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Psychology",
+    "postNominal": "Psy.D. or PsyD",
+    "agency": "A professional doctoral degree for clinical psychologists. Clinical psychologists who complete additional research as a component of their academic training are awarded a PhD in Psychology. Either of these degrees may be listed postnominally with ABPP to designate completion of board specialization beyond licensure."
+  },
+  {
+    "name": "Doctor of Dental Medicine",
+    "postNominal": "D.M.D. or DMD",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Medicine",
+    "postNominal": "M.D. or MD",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Naturopathic Medicine",
+    "postNominal": "ND or NMD",
+    "agency": "A professional doctoral degree for naturopathic practitioners in the United States. Holders of the ND or NMD degree are known as naturopathic physicians in states where they may be licensed. The designation NMD is used in Arizona."
+  },
+  {
+    "name": "Doctor of Nursing Practice",
+    "postNominal": "DNP",
+    "agency": "A terminal professional degree that focuses on the clinical aspects of nursing rather than academic research. The curriculum for the DNP degree generally includes advanced practice, leadership, and application of clinical research. The DNP is intended primarily to prepare registered nurses to become advanced practice registered nurses. Advanced practice roles in nursing include the nurse practitioner (NP), certified registered nurse anesthetist (CRNA), certified nurse midwife (CNM), the clinical nurse specialist (CNS), and Nursing Administrators."
+  },
+  {
+    "name": "Doctor of Optometry",
+    "postNominal": "OD",
+    "agency": "A professional doctoral degree for Optometrists"
+  },
+  {
+    "name": "Doctor of Osteopathic Medicine",
+    "postNominal": "D.O. or DO",
+    "agency": "A professional doctoral degree for physicians in the United States. Holders of the DO degree are known as osteopathic physicians and have equivalent rights, privileges, and responsibilities as physicians with a Doctor of Medicine degree (M.D.). Osteopathic medical school curricula closely mirror those of Doctor of Medicine M.D.-granting medical schools. However, osteopathic physicians also receive an additional 300 – 500 hours in the study of hands-on manual medicine and the body's musculoskeletal system integrated into the medical curriculum, which is referred to as osteopathic manipulative medicine."
+  },
+  {
+    "name": "Doctor of Podiatric Medicine",
+    "postNominal": "D.P.M.",
+    "agency": "A Doctor of Podiatric Medicine (DPM) is a physician that specializes in diagnosing and treating conditions of the foot, ankle, and related structures of the leg. DPMs are also known as podiatric physicians or surgeons. They complete four years of training in a podiatric medical school and three years of hospital residency training. This training is similar to that of other medical or osteopathic doctors but with an emphasized scope on foot, ankle, and lower extremity."
+  },
+  {
+    "name": "Emergency Medical Dispatcher",
+    "postNominal": "EMD",
+    "agency": "Certified through the Association of Public-Safety Communications Officials-International (APCO), the National Academies of Emergency Dispatch, and PowerPhone, Inc."
+  },
+  {
+    "name": "Nationally Registered Emergency Medical Responder (Begin January 1, 2012)",
+    "postNominal": "NREMR",
+    "agency": "All require passage of the National EMS Certification Exam-EMR (NREMR), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Basic (End December 31, 2011)",
+    "postNominal": "EMT-B",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Basic Exam (NREMT-B), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Nationally Registered Emergency Medical Technician (Begin January 1, 2012)",
+    "postNominal": "NREMT",
+    "agency": "All require passage of the National EMS Certification Exam-EMT (NREMT), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Intermediate/85 (End March 31, 2013)",
+    "postNominal": "EMT-I/85",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Intermediate/85 Exam (NREMT-I/85), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Intermediate/99 (End December 31, 2013)",
+    "postNominal": "EMT-I/99",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Intermediate/99 Exam (NREMT-I/99), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Nationally Registered Advanced Emergency Medical Technician (Begin June 1, 2011)",
+    "postNominal": "NRAEMT",
+    "agency": "All require passage of the National EMS Certification Exam-Advanced EMT (NRAEMT), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Emergency Medical Technician - Paramedic (End December 31, 2012)",
+    "postNominal": "EMT-P",
+    "agency": "All require passage of the National Registry of Emergency Medical Technicians EMT-Paramedic Exam (NREMT-P), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Nationally Registered Paramedic (Begin January 1, 2013)",
+    "postNominal": "NRP",
+    "agency": "All require passage of the National EMS Certification Exam-Paramedic (NRP), developed by the National Registry of Emergency Medical Technicians"
+  },
+  {
+    "name": "Licensed Paramedic (Texas)",
+    "postNominal": "LP",
+    "agency": "Licensure by Texas Department of State HealthAll require passage of the National Registry of Emergency Medical Technicians- EMT-Paramedic or National EMS Certification Exam-Paramedic (NREMT-P or NRP after January 1, 2013), developed by the National Registry of Emergency Medical TechniciansAll require an associate degree in emergency medical services (EMS), a baccalaureate degree, or a postgraduate degree"
+  },
+  {
+    "name": "Licensed Practical Nurse (much of U.S.)Licensed Vocational Nurse (California and Texas)",
+    "postNominal": "LPNLVN",
+    "agency": "Licensure by individual state nursing boardsAll require passage of the National Council Licensure Examination-Practical Nurse (NCLEX-PN), developed by the National Council of State Boards of Nursing"
+  },
+  {
+    "name": "Registered Nurse",
+    "postNominal": "RN",
+    "agency": "Licensure by individual state nursing boardsAll require passage of the National Council Licensure Examination-Registered Nurse (NCLEX-RN), developed by the National Council of State Boards of Nursing"
+  },
+  {
+    "name": "Advanced Practice NurseAdvanced Practice Registered Nurse",
+    "postNominal": "APNAPRN",
+    "agency": "Various"
+  },
+  {
+    "name": "Certified Massage Therapist",
+    "postNominal": "CMT",
+    "agency": "Certification by individual state boards"
+  },
+  {
+    "name": "Licensed Massage Therapist",
+    "postNominal": "LMT",
+    "agency": "Licensure by individual state boardsRequires passing of NCETMB or MBLEx"
+  },
+  {
+    "name": "Licensed Clinical Massage Therapist",
+    "postNominal": "LCMT",
+    "agency": "Licensure by individual state boardsRequires passing of NCETMB or MBLExClinical education specialized for health care practice"
+  },
+  {
+    "name": "Licensed Midwife",
+    "postNominal": "LM",
+    "agency": "state or provincial licensing"
+  },
+  {
+    "name": "Certified Midwife",
+    "postNominal": "CM",
+    "agency": "Accreditation Commission for Midwifery Education (accredits education programs)American Midwifery Certification Board (administers certification exam)American College of Nurse-Midwives (defines requirements)"
+  },
+  {
+    "name": "Certified Professional Midwife",
+    "postNominal": "CPM",
+    "agency": "North American Registry of Midwives"
+  },
+  {
+    "name": "Certified Nurse-Midwife",
+    "postNominal": "CNM",
+    "agency": "Accreditation Commission for Midwifery Education (accredits education programs)American Midwifery Certification Board (administers certification exam)American College of Nurse-Midwives (defines requirements)"
+  },
+  {
+    "name": "Certified Registered Nurse Anesthetist",
+    "postNominal": "CRNA",
+    "agency": "American Association of Nurse Anesthetists Council on Accreditation of Nurse Anesthesia Educational Programs (accredits education programs)AANA Council on Certification of Nurse Anesthetists (administers certification exam)AANA Council on Recertification of Nurse Anesthetists (recertification)"
+  },
+  {
+    "name": "Nurse Practitioner",
+    "postNominal": "NP",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Marine Physician Assistant",
+    "postNominal": "MPA",
+    "agency": "Federal Certificate of Registry U.S.C.G."
+  },
+  {
+    "name": "Occupational Therapist",
+    "postNominal": "OTR",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Physician Assistant",
+    "postNominal": "PA-C",
+    "agency": "National Commission on Certification of Physician Assistants"
+  },
+  {
+    "name": "Registered Veterinary Technician",
+    "postNominal": "RVT",
+    "agency": ""
+  },
+  {
+    "name": "Physical Therapist",
+    "postNominal": "PT",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Physical Therapy Assistant",
+    "postNominal": "PTA",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Certified in Public Health",
+    "postNominal": "CPH",
+    "agency": "National Board of Public Health Examiners"
+  },
+  {
+    "name": "Medical Laboratory Scientist",
+    "postNominal": "MLS",
+    "agency": "American Society for Clinical Pathology"
+  },
+  {
+    "name": "Medical Technologist",
+    "postNominal": "MT",
+    "agency": "State Licensure, American Medical Technologists"
+  },
+  {
+    "name": "Medical Laboratory Technician",
+    "postNominal": "MLT",
+    "agency": "State Licensure, American Society for Clinical Pathology, American Medical Technologists"
+  },
+  {
+    "name": "Licensed Professional Counselor",
+    "postNominal": "LPC or LCPC",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Associate Counselor",
+    "postNominal": "LAC",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Master Social Worker",
+    "postNominal": "LMSW",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Clinical Social Worker",
+    "postNominal": "LCSW",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Licensed Veterinary Technician",
+    "postNominal": "LVT",
+    "agency": ""
+  },
+  {
+    "name": "Qualified Clinical Social Worker",
+    "postNominal": "QCSW",
+    "agency": "National Association of Social Workers"
+  },
+  {
+    "name": "Certified Tissue Bank Specialist",
+    "postNominal": "CTBS",
+    "agency": "American Association of Tissue Banks"
+  },
+  {
+    "name": "Certified Hypnotherapist",
+    "postNominal": "CHt",
+    "agency": ""
+  },
+  {
+    "name": "National Board Certified Clinical Hypnotherapist",
+    "postNominal": "NBCCH",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Clinical Hypnotherapist in Public Service",
+    "postNominal": "NBCCH-PS",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Diplomate in Clinical Hypnotherapy",
+    "postNominal": "NBCDCH",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Diplomate in Clinical Hypnotherapy in Public Service",
+    "postNominal": "NBCDCH-PS",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Fellow in Clinical Hypnotherapy",
+    "postNominal": "NBCFCH",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "National Board Certified Fellow in Clinical Hypnotherapy in Public Service",
+    "postNominal": "NBCFCH-PS",
+    "agency": "National Board for Certified Clinical Hypnotherapists"
+  },
+  {
+    "name": "Licensed Acupuncturist",
+    "postNominal": "L.Ac.",
+    "agency": "State licensure"
+  },
+  {
+    "name": "Diplomate in Acupuncture",
+    "postNominal": "Dipl.Ac.",
+    "agency": "National Certification Commission for Acupuncture and Oriental Medicine"
+  },
+  {
+    "name": "Diplomate in Oriental Medicine",
+    "postNominal": "Dipl.O.M.",
+    "agency": "National Certification Commission for Acupuncture and Oriental Medicine"
+  },
+  {
+    "name": "Fellow of the American Society for Parenteral and Enteral Nutrition",
+    "postNominal": "FASPEN",
+    "agency": "American Society for Parenteral and Enteral Nutrition"
+  },
+  {
+    "name": "Fellow of the American Academy of Nursing",
+    "postNominal": "FAAN",
+    "agency": "American Academy of Nursing"
+  },
+  {
+    "name": "Fellow of the American Society of Health-System Pharmacists",
+    "postNominal": "FASHP",
+    "agency": "American Society of Health-System Pharmacists"
+  },
+  {
+    "name": "Fellow of the American Academy of Emergency Medicine",
+    "postNominal": "FAAEM",
+    "agency": "American Academy of Emergency Medicine"
+  },
+  {
+    "name": "Fellow of the Aerospace Medical Association",
+    "postNominal": "FAsMA",
+    "agency": "Aerospace Medical Association"
+  },
+  {
+    "name": "Associate Fellow of the Aerospace Medical Association",
+    "postNominal": "AFAsMA",
+    "agency": "Aerospace Medical Association"
+  },
+  {
+    "name": "Certified Aerospace Physiologist",
+    "postNominal": "CAsP",
+    "agency": "Aerospace Medical Association"
+  },
+  {
+    "name": "Aviation Medical Examiner",
+    "postNominal": "AME",
+    "agency": "Federal Aviation Administration"
+  },
+  {
+    "name": "Senior Aviation Medical Examiner",
+    "postNominal": "SAME",
+    "agency": "Federal Aviation Administration"
+  },
+  {
+    "name": "Fellow of the American Academy of Pediatrics",
+    "postNominal": "FAAP",
+    "agency": "American Academy of Pediatrics"
+  },
+  {
+    "name": "Fellow of the American College of Cardiology",
+    "postNominal": "FACC",
+    "agency": "American College of Cardiology"
+  },
+  {
+    "name": "Fellow of the American College of Dentists",
+    "postNominal": "FACD",
+    "agency": "American College of Dentists"
+  },
+  {
+    "name": "Fellow of the American College of Endocrinology",
+    "postNominal": "FACE",
+    "agency": "American College of Endocrinology"
+  },
+  {
+    "name": "Fellow of the American College of Physicians",
+    "postNominal": "FACP",
+    "agency": "American College of Physicians"
+  },
+  {
+    "name": "Fellow of the American College of Surgeons",
+    "postNominal": "FACS",
+    "agency": "American College of Surgeons"
+  },
+  {
+    "name": "Fellow of the American College of Osteopathic Family Physicians",
+    "postNominal": "FACOFP",
+    "agency": "American College of Osteopathic Family Physicians"
+  },
+  {
+    "name": "Fellow of the American Congress of Obstetricians and Gynecologists",
+    "postNominal": "FACOG",
+    "agency": "American Congress of Obstetricians and Gynecologists"
+  },
+  {
+    "name": "Doctor of Pharmacy",
+    "postNominal": "PharmD",
+    "agency": "State boards of pharmacy"
+  },
+  {
+    "name": "Certified Pharmacy Technician",
+    "postNominal": "CPhT",
+    "agency": "Pharmacy Technician Certification Board"
+  },
+  {
+    "name": "Registered Pharmacist",
+    "postNominal": "R.Ph. or RPh",
+    "agency": "State boards of pharmacy"
+  },
+  {
+    "name": "Registered Respiratory Therapist",
+    "postNominal": "RRT",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Registered Respiratory Therapist, Neonatal & Pediatric Specialist",
+    "postNominal": "RRT-NPS",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Registered Respiratory Therapist, Sleep Disorder Specialist",
+    "postNominal": "RRT-SDS",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Registered Respiratory Therapist, Adult Critical Care Specialist",
+    "postNominal": "RRT-ACCS",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Respiratory practitioner",
+    "postNominal": "RP, RCP",
+    "agency": "State Boards of Respiratory Care"
+  },
+  {
+    "name": "Certified Respiratory Therapy Technician",
+    "postNominal": "CRTT",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Certified Respiratory Therapist",
+    "postNominal": "CRT",
+    "agency": "National Board for Respiratory Care"
+  },
+  {
+    "name": "Certified Phlebotomy Technician",
+    "postNominal": "CPT",
+    "agency": "National Healthcareer Association"
+  },
+  {
+    "name": "Certified Athletic trainer",
+    "postNominal": "ATC",
+    "agency": "Board of Certification, Inc.May be restricted by state licensure."
+  },
+  {
+    "name": "Certified Medical Assistant",
+    "postNominal": "CMA",
+    "agency": "American Association of Medical Assistants"
+  },
+  {
+    "name": "",
+    "postNominal": "",
+    "agency": ""
+  },
+  {
+    "name": "",
+    "postNominal": "",
+    "agency": ""
+  },
+  {
+    "name": "",
+    "postNominal": "",
+    "agency": ""
+  },
+  {
+    "name": "United States Army",
+    "postNominal": "USA",
+    "agency": ""
+  },
+  {
+    "name": "United States Navy",
+    "postNominal": "USN",
+    "agency": ""
+  },
+  {
+    "name": "United States Navy Reserve",
+    "postNominal": "USNR",
+    "agency": ""
+  },
+  {
+    "name": "United States Air Force",
+    "postNominal": "USAF",
+    "agency": ""
+  },
+  {
+    "name": "United States Marine Corps",
+    "postNominal": "USMC",
+    "agency": ""
+  },
+  {
+    "name": "United States Coast Guard",
+    "postNominal": "USCG",
+    "agency": ""
+  },
+  {
+    "name": "Retired",
+    "postNominal": "(Ret.)",
+    "agency": ""
+  },
+  {
+    "name": "Member of the Appraisal Institute[15]",
+    "postNominal": "MAI",
+    "agency": "Appraisal Institute"
+  },
+  {
+    "name": "Senior Residential Appraiser[15]",
+    "postNominal": "SRA",
+    "agency": "Appraisal Institute"
+  },
+  {
+    "name": "Accredited Member[16]",
+    "postNominal": "AM",
+    "agency": "American Society of Appraisers"
+  },
+  {
+    "name": "Accredited Senior Appraiser[16]",
+    "postNominal": "ASA",
+    "agency": "American Society of Appraisers"
+  },
+  {
+    "name": "Assessment Administration Specialist[17]",
+    "postNominal": "AAS",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Certified Assessment Evaluator[18]",
+    "postNominal": "CAE",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Cadastral Mapping Specialist[19]",
+    "postNominal": "CMS",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Personal Property Specialist[20]",
+    "postNominal": "PPS",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Residential Evaluation Specialist[21]",
+    "postNominal": "RES",
+    "agency": "International Association of Assessing Officers"
+  },
+  {
+    "name": "Master in Residential Marketing [22]",
+    "postNominal": "MIRM",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Green Professional [22]",
+    "postNominal": "CGP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Graduate Builder[22]",
+    "postNominal": "CGB",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Graduate Associate[22]",
+    "postNominal": "CGA",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Master Certified New Home Sales Professional [22]",
+    "postNominal": "Master CSP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Aging-in-Place Specialist[22]",
+    "postNominal": "CAPS",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified New Home Marketing Professional [22]",
+    "postNominal": "CMP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Housing Credit Certified Professional [22]",
+    "postNominal": "HCCP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified New Home Sales Professional [22]",
+    "postNominal": "CSP",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Graduate Master Remodeler [22]",
+    "postNominal": "GMR",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Graduate Master Builder[22]",
+    "postNominal": "GMB",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Certified Graduate Remodeler [22]",
+    "postNominal": "CGR",
+    "agency": "National Association of Home Builders"
+  },
+  {
+    "name": "Accredited Buyer's Representative",
+    "postNominal": "ABR",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Graduate Realtor Institute",
+    "postNominal": "GRI",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Accredited Land Consultant",
+    "postNominal": "ALC",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified International Property Specialist",
+    "postNominal": "CIPS",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified Property Manager",
+    "postNominal": "CPM",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified Commercial Investment Member",
+    "postNominal": "CCIM",
+    "agency": "National Association of Realtors"
+  },
+  {
+    "name": "Certified Corporate Housing Professional",
+    "postNominal": "CCHP",
+    "agency": "Corporate Housing Providers Association"
+  },
+  {
+    "name": "Member of the National Association of Appraisers[23]",
+    "postNominal": "MNAA",
+    "agency": "National Association of Appraisers"
+  },
+  {
+    "name": "Doctor of Divinity",
+    "postNominal": "DD",
+    "agency": "Used by those who have been granted an honorary degree by theological seminary or university in the United States."
+  },
+  {
+    "name": "Doctor of Theology",
+    "postNominal": "ThD",
+    "agency": "Used by those who have earned a doctorate in academic studies at a theological seminary or university. At those institutions offering it, it is considered a terminal degree in academic theology (at other institutions it is the PhD or DPhil in theology)."
+  },
+  {
+    "name": "Doctor of Ministry",
+    "postNominal": "DMin",
+    "agency": "Used by those who have earned a professional doctorate degree at a theological seminary or university."
+  },
+  {
+    "name": "Master of Theology",
+    "postNominal": "ThM",
+    "agency": "Used by those who have earned a master in academic studies at a theological seminary or university."
+  },
+  {
+    "name": "Master of Divinity",
+    "postNominal": "MDiv",
+    "agency": "Used by those who have earned a professional master's degree at a theological seminary or university. Although it is a master's degree, academic completion requires 3 years of graduate training and it is considered a terminal degree in this field."
+  },
+  {
+    "name": "Master of Theological Studies",
+    "postNominal": "MTS",
+    "agency": "Used by those who have earned a master's degree at a theological seminary or university."
+  },
+  {
+    "name": "Certified Church Business Administrator",
+    "postNominal": "CCA",
+    "agency": "National Association of Church Business Administrators"
+  },
+  {
+    "name": "Knight/Dame of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "KHS/DHS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Knight/Dame Commander of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "KCHS/DCHS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Knight/Dame Commander with Star of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "KC*HS/DC*HS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Knight/Dame Grand Cross of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "postNominal": "GCHS",
+    "agency": "Equestrian Order of the Holy Sepulchre of Jerusalem"
+  },
+  {
+    "name": "Professional Surveyor & Mapper",
+    "postNominal": "PSM",
+    "agency": ""
+  },
+  {
+    "name": "Professional Land Surveyor",
+    "postNominal": "PLS",
+    "agency": ""
+  },
+  {
+    "name": "Registered Land Surveyor",
+    "postNominal": "RLS",
+    "agency": ""
+  },
+  {
+    "name": "Surveyor Intern",
+    "postNominal": "SI",
+    "agency": ""
+  },
+  {
+    "name": "Land Surveyor Intern",
+    "postNominal": "LSI",
+    "agency": ""
+  },
+  {
+    "name": "Land Surveyor-in-Training",
+    "postNominal": "LSIT",
+    "agency": ""
+  },
+  {
+    "name": "Certified Federal Surveyor",
+    "postNominal": "CFedS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Installation Professional",
+    "postNominal": "BPI",
+    "agency": "Society of Cable and Telecommunication Engineers / International Society of Broadband Experts"
+  },
+  {
+    "name": "Broadband Premises Technician",
+    "postNominal": "BPT",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Premises Expert",
+    "postNominal": "BPE",
+    "agency": ""
+  },
+  {
+    "name": "Business Class Services Specialist",
+    "postNominal": "BCSS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Distribution Specialist",
+    "postNominal": "BDS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband Transport Specialist",
+    "postNominal": "BTS",
+    "agency": ""
+  },
+  {
+    "name": "Broadband TelecomCenter Specialist",
+    "postNominal": "BTCS",
+    "agency": ""
+  },
+  {
+    "name": "DOCSIS® Engineering Professional",
+    "postNominal": "DEP",
+    "agency": ""
+  },
+  {
+    "name": "Digital Video Engineering Professional",
+    "postNominal": "DVEP",
+    "agency": ""
+  },
+  {
+    "name": "Internet Protocol Engineering Professional",
+    "postNominal": "IPEP",
+    "agency": ""
+  },
+  {
+    "name": "Certified Professional in Learning and Performance",
+    "postNominal": "CPLP",
+    "agency": "American Society for Training & Development"
+  },
+  {
+    "name": "Certified Safety Professional",
+    "postNominal": "CSP",
+    "agency": "Board of Certified Safety Professionals"
+  },
+  {
+    "name": "Registered Business Analyst",
+    "postNominal": "RBA",
+    "agency": "American Academy of Financial Management"
+  },
+  {
+    "name": "Accredited Business Communicator",
+    "postNominal": "ABC",
+    "agency": "International Association of Business Communicators"
+  },
+  {
+    "name": "Doctor of Philosophy Candidate",
+    "postNominal": "ABD",
+    "agency": "Doctor of Philosophy Candidate (all but dissertation)"
+  },
+  {
+    "name": "Accredited in Public Relations",
+    "postNominal": "APR",
+    "agency": "Public Relations Society of America"
+  },
+  {
+    "name": "Editor in the Life Sciences",
+    "postNominal": "ELS",
+    "agency": "Board of Editors in the Life Sciences"
+  },
+  {
+    "name": "Certified Administrative Professional",
+    "postNominal": "CAP",
+    "agency": "International Association of Administrative Professionals (IAAP)"
+  },
+  {
+    "name": "Certified Analytics Professional",
+    "postNominal": "CAP",
+    "agency": "INFORMS, Institute for Operations Research and the Management Sciences"
+  },
+  {
+    "name": "Certified Anti-Terrorism Specialist",
+    "postNominal": "CAS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Associate in Project Management",
+    "postNominal": "CAPM",
+    "agency": "Project Management Institute"
+  },
+  {
+    "name": "Certified Broadcast Meteorologist",
+    "postNominal": "CBM or AMS",
+    "agency": "American Meteorological Society"
+  },
+  {
+    "name": "Certified Experience Analyst",
+    "postNominal": "CXA",
+    "agency": "Human Factors International"
+  },
+  {
+    "name": "Certified Fire Protection Specialist",
+    "postNominal": "CFPS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Forensic Interviewer",
+    "postNominal": "CFI",
+    "agency": "International Association of Interviewers"
+  },
+  {
+    "name": "Certified Manager",
+    "postNominal": "CM",
+    "agency": ""
+  },
+  {
+    "name": "Certified Master Anti-Terrorism Specialist",
+    "postNominal": "CMAS",
+    "agency": ""
+  },
+  {
+    "name": "Certified Protection Professional",
+    "postNominal": "CPP",
+    "agency": "ASIS International"
+  },
+  {
+    "name": "Certified Public Relations Counselor",
+    "postNominal": "CPRC",
+    "agency": "Florida Public Relations Association"
+  },
+  {
+    "name": "Certified Assistant Refrigeration Operator",
+    "postNominal": "CARO",
+    "agency": "Refrigerating Engineers & Technicians Association"
+  },
+  {
+    "name": "Certified Industrial Refrigeration Operator",
+    "postNominal": "CIRO",
+    "agency": "Refrigerating Engineers & Technicians Association"
+  },
+  {
+    "name": "RETA Authorized Instructor",
+    "postNominal": "RAI",
+    "agency": "Refrigerating Engineers & Technicians Association"
+  },
+  {
+    "name": "Certified Systems Engineering Professional",
+    "postNominal": "CSEP",
+    "agency": "International Council on Systems Engineering"
+  },
+  {
+    "name": "Certified Usability Analyst",
+    "postNominal": "CUA",
+    "agency": "Human Factors International"
+  },
+  {
+    "name": "Certified Youth Development Specialist",
+    "postNominal": "CYDS",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Education",
+    "postNominal": "EdD or DEd",
+    "agency": ""
+  },
+  {
+    "name": "Doctorate of Strategic Security",
+    "postNominal": "DSS",
+    "agency": "Henley-Putnam University"
+  },
+  {
+    "name": "Fellow of The Explorers Club",
+    "postNominal": "FEC",
+    "agency": "The Explorers Club"
+  },
+  {
+    "name": "Fellow of the Society of Decision Professionals",
+    "postNominal": "FSDP",
+    "agency": "The Society of Decision Professionals"
+  },
+  {
+    "name": "French Wine Scholar",
+    "postNominal": "FWS",
+    "agency": ""
+  },
+  {
+    "name": "Licensed Funeral Director",
+    "postNominal": "FD",
+    "agency": ""
+  },
+  {
+    "name": "Mobile Certified Marketer",
+    "postNominal": "MCM",
+    "agency": "Mobile Marketing Association"
+  },
+  {
+    "name": "National Board Certified Teacher",
+    "postNominal": "NBCT",
+    "agency": ""
+  },
+  {
+    "name": "Fellow of the National Speleological Society",
+    "postNominal": "FNSS",
+    "agency": "National Speleological Society"
+  },
+  {
+    "name": "Doctor of Philosophy",
+    "postNominal": "Ph.D.",
+    "agency": ""
+  },
+  {
+    "name": "Doctor of Philosophy Candidate",
+    "postNominal": "Ph.C.",
+    "agency": "Doctor of Philosophy Candidate"
+  },
+  {
+    "name": "Master of Arts",
+    "postNominal": "MA or M.A.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Fine Arts",
+    "postNominal": "MFA or M.F.A.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Science",
+    "postNominal": "MSc or M.Sc.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Business Administration",
+    "postNominal": "MBA or M.B.A.",
+    "agency": ""
+  },
+  {
+    "name": "Master of Public Administration",
+    "postNominal": "MPA or M.P.A.",
+    "agency": ""
+  },
+  {
+    "name": "Physical Security Professional",
+    "postNominal": "PSP",
+    "agency": ""
+  },
+  {
+    "name": "Professional Certified Investigator",
+    "postNominal": "PCI",
+    "agency": ""
+  },
+  {
+    "name": "Professional Manager Certification",
+    "postNominal": "PMC",
+    "agency": "The Air University"
+  },
+  {
+    "name": "Project Management Professional",
+    "postNominal": "PMP",
+    "agency": "Project Management Institute"
+  },
+  {
+    "name": "Qualified SWPPP Designer",
+    "postNominal": "QSD",
+    "agency": "California Stormwater Quality Association"
+  },
+  {
+    "name": "Qualified SWPPP Practitioner",
+    "postNominal": "QSP",
+    "agency": "California Stormwater Quality Association"
+  },
+  {
+    "name": "Registered Professional Archaeologist",
+    "postNominal": "RPA",
+    "agency": ""
+  },
+  {
+    "name": "Registered Construction Inspector (Division I,II,III, or IV)",
+    "postNominal": "RCI",
+    "agency": "American Construction Inspectors Association"
+  },
+  {
+    "name": "Systems Security Certified Practitioner",
+    "postNominal": "SSCP",
+    "agency": ""
+  },
+  {
+    "name": "Multi Sport Athlete",
+    "postNominal": "MSA",
+    "agency": ""
+  },
+  {
+    "name": "Member of the ACE",
+    "postNominal": "ACE",
+    "agency": "American Cinema Editors"
+  },
+  {
+    "name": "Member of the ASC",
+    "postNominal": "ASC",
+    "agency": "American Society of Cinematographers"
+  },
+  {
+    "name": "Member of the CSA",
+    "postNominal": "CSA",
+    "agency": "Casting Society of America"
+  },
+  {
+    "name": "Member of the MPSE",
+    "postNominal": "MPSE",
+    "agency": "Motion Picture Sound Editors"
+  },
+  {
+    "name": "Certified E-Discovery Specialist",
+    "postNominal": "CEDS",
+    "agency": "Association of Certified E-Discovery Specialists"
+  },
+  {
+    "name": "NERC Certified System Operator",
+    "postNominal": "NCSO",
+    "agency": "NERC Personnel Subcommittee (PS) and Personnel Certification Governance Committee (PGSC)"
+  }
+]

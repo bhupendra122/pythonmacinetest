@@ -1,0 +1,22 @@
+apiVersion: apps/v1 # 1.16
+kind: Deployment
+metadata:
+  name: avda-api
+spec:
+  selector:
+    matchLabels:
+      app: avda-api
+  replicas: 1
+  strategy:
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: avda-api
+    spec:
+      containers:
+        - name: avda-api
+          image: avda/avda-api:0.0.2
+          env:
+            - name: ENV
+              value: "prod"    

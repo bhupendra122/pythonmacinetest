@@ -1,0 +1,101 @@
+version: 2.1
+
+orbs:
+  docker: circleci/docker@1.2.1
+  gcp-gke: circleci/gcp-gke@1.1.0
+
+jobs:
+  build-and-push:
+    executor: docker/docker
+    parameters:
+      image:
+        description: |
+          Name of docker image with organization
+        type: string
+      version:
+        description: |
+          Docker image version
+        type: string
+        default: ""
+      env_file:
+        description: |
+          Name of .env to use for build
+        type: string
+        default: ""
+    steps:
+      - setup_remote_docker
+      - checkout
+      - docker/check
+      - run: echo $<< parameters.env_file >> | base64 -d > ./.env
+      - docker/build:
+          image: << parameters.image >>
+          tag: << parameters.version >>
+      - docker/push:
+          image: << parameters.image >>
+          tag: << parameters.version >>
+
+  deploy:
+    description: Deploy application to Google Kubernetes Engine
+    machine: true
+    parameters:
+      cluster:
+        description: |
+          Name of gke cluster
+        type: string
+      container:
+        description: |
+          Name of docker container with organization
+        type: string
+      deployment:
+        description: |
+          Name of k8 deployment
+        type: string
+      namespace:
+        description: |
+          Namespace of k8 deployment
+        type: string
+      image:
+        description: |
+          Name of docker image with organization
+        type: string
+      tag:
+        description: |
+          Docker image tag
+        type: string
+    steps:
+      - gcp-gke/install
+      - gcp-gke/update-kubeconfig-with-credentials:
+          cluster: << parameters.cluster >>
+          perform-login: true
+      - gcp-gke/rollout-image:
+          cluster: << parameters.cluster >>
+          container: << parameters.container >>
+          deployment: << parameters.deployment >>
+          namespace: << parameters.namespace >>
+          image: << parameters.image >>
+          tag: << parameters.tag >>
+
+workflows:
+  docker-build-push:
+    jobs:
+      - build-and-push:
+          image: avda/avda-api
+          version: "0.0.2"
+          env_file: "ENV_FILE"
+          filters:
+            branches:
+              only:
+                - prod
+      - deploy:
+          cluster: avda-prod
+          container: avda-api
+          deployment: avda-api
+          namespace: default
+          image: avda/avda-api
+          tag: "0.0.2"
+          filters:
+              branches:
+                only:
+                  - prod
+          requires:
+            - build-and-push
